@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://54.176.86.218:8081/repository/Omama-app/"
+    "registry": "http://54.193.82.92:8081/repository/Omama-app/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
